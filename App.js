@@ -28,8 +28,8 @@ function App() {
             />
             <Contact 
                 img="./images/pumpkin.png"
-                price= "$ 400"
-                name="Pumpkin"
+                price= "$ 410"
+                name="Reeley"
                 phone="(0800) CAT KING"
                 email="pumpkin@sgmail.com"
             />
